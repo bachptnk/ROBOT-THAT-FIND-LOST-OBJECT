@@ -211,7 +211,7 @@ void setup(void) {
   Serial.setDebugOutput(true);
   #endif
 
-  wifiMulti.addAP("TLBTOT", "26606018");
+
   wifiMulti.addAP("Thu Vien", "123456789");
   wifiMulti.addAP("CanTin", "153nguyenchithanh");
   wifiMulti.addAP("Steam", "steam@123");
